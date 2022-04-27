@@ -1,7 +1,7 @@
 Hi 👋 My name is Sahil Khan
 ===========================
 
-Cyber Security Engineering Student | Life-Long Learner
+Cyber Security Engineering Student | Software Developer
 ------------------------------------------------------
 
 I'm a student at George Mason University, member of Mason Competitive Cyber and  
