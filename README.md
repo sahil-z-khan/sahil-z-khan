@@ -4,7 +4,7 @@ Hi 👋 My name is Sahil Khan
 Cyber Security Engineering Student | Life-Long Learner
 ------------------------------------------------------
 
-I'm a student at George Mason University, I love learning new skills to add under my belt
+I'm a student at George Mason University, member of Mason Competitive Cyber and  
 
 *   🌍  I'm based in Washington D.C.
 *   🖥️  See my portfolio at [https://sahil-z-khan.github.io/CV/](http://sahil-z-khan.github.io/CV/)
