@@ -1,4 +1,5 @@
-Hi 👋 My name is Sahil Khan
+Hello, 
+My name is Sahil Khan
 ===========================
 
 Cyber Security Engineering Student | Life-Long Learner
