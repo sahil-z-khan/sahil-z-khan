@@ -1,21 +1,29 @@
-Hello, 
-My name is Sahil Khan
-===========================
+### 💻 Cyber Security Engineer | Cloud & DevSecOps Enthusiast | Life-Long Learner  
 
-Cyber Security Engineering Student | Life-Long Learner
-------------------------------------------------------
+I'm a **George Mason University alum** with a **B.S. in Cyber Security Engineering**.  
+Currently, I work as a **Software Engineer at Capital One**, where I help mitigate against large-scale botnet activities at edge.  
+I'm passionate about **cloud security**, **automation**, and learning how I can build systems that scale and are cyber resilient.
 
-I'm a student at George Mason University, member of Mason Competitive Cyber and a life-long learner
+---
 
-*   🌍  I'm based in Washington D.C.
-*   🖥️  See my portfolio at [https://sahil-z-khan.github.io/CV/](http://sahil-z-khan.github.io/CV/)
-*   ✉️  You can contact me at [sahilzabeehkhan726@gmail.com](mailto:sahilzabeehkhan726@gmail.com)
-*   🧠  I'm learning Vue.js, Network Pentesting & Reverse Engineering
-*   ⚡  On the side, I love doing photography<p align="left">
-                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                                <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-                    </p>
+### 🌐 Let's Connect
+
+- 🌍 Based in **Washington D.C.**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahil-z-khan/)  
+- 💻 [Portfolio](https://sahil-z-khan.github.io/CV/)  
+- ✉️ [Email](mailto:sahilzabeehkhan726@gmail.com)
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
+
+---
+
+⭐️ *“1% better everyday”*
