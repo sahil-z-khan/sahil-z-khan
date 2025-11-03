@@ -1,8 +1,9 @@
 ### 💻 Cyber Security Engineer | Cloud & DevSecOps Enthusiast | Life-Long Learner  
 
-I'm a **George Mason University alum** with a **B.S. in Cyber Security Engineering**.  
-Currently, I work as a **Software Engineer at Capital One**, where I help mitigate against large-scale botnet activities at edge.  
+Currently, work as a **Software Engineer at Capital One**, my primary focus is on content delivery along with mitigating against large-scale botnet attacks.
 I'm passionate about **cloud security**, **automation**, and learning how I can build systems that scale and are cyber resilient.
+
+A little about my background, I am a **George Mason University alum** with a **B.S. in Cyber Security Engineering**. Some hobbies of mine are trying new foods, exploring local gems, along with hanging with friends and family.
 
 ---
 
