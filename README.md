@@ -1,4 +1,4 @@
-### 💻 Cyber Security Engineer | Cloud & DevSecOps Enthusiast | Life-Long Learner  
+### 💻 Software Engineer | Cyber Enthusiast | Life-Long Learner  
 
 Currently, work as a **Software Engineer at Capital One**, my primary focus is on content delivery along with mitigating against large-scale botnet attacks.
 I'm passionate about **cloud security**, **automation**, and learning how I can build systems that scale and are cyber resilient.
