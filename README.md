@@ -26,5 +26,4 @@ A little about my background, I am a **George Mason University alum** with a **B
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
 
 ---
-
-⭐️ *“1% better everyday”*
+*“1% better everyday”*
